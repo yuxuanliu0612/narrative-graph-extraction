@@ -280,4 +280,3 @@ Notebook 中的 Hugging Face token 与 wandb token 均通过 `google.colab.userd
 - BiLSTM-Attention — Zhou et al., *Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification*, ACL 2016
 - GRPO 训练代码参考 [@willccbb](https://gist.github.com/willccbb/4676755236bb08cab5f4e54a0475d6fb) 的实现
 
-指导教师：周俊生
