@@ -1,0 +1,19 @@
+# 核心依赖（实验在 Google Colab A100 / RTX 3090 上完成）
+unsloth
+vllm
+trl>=0.14.0
+transformers>=4.48.0
+peft
+torch
+datasets
+accelerate
+bitsandbytes
+
+# 评估与可视化
+scikit-learn
+numpy
+pandas
+wandb
+
+# 深度学习路线（BiLSTM-Attention）
+# Chinese RoBERTa 通过 transformers 加载: hfl/chinese-roberta-wwm-ext
