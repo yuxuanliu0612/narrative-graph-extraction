@@ -148,7 +148,7 @@ reward 持续振荡且未能良好收敛，说明奖励函数设计仍有改进�
 | DeepSeek-R1-7B · zero-shot | 0.5 | 0.4 |
 | DeepSeek-R1-7B · few-shot | 5.1 | 11.5 |
 | DeepSeek-R1-7B · SFT 联合式 | 28.1 | 31.5 |
-| DeepSeek-R1-1.5B · SFT 分步 | 52.2 | 71.5 |
+| DeepSeek-R1-1.5B · SFT 分步 | 52.1 | 71.5 |
 | DeepSeek-R1-7B · SFT 分步 | 49.4 | 49.4 |
 | Qwen2.5-7B · GRPO | 28.9 | 29.2 |
 
